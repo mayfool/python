@@ -1,0 +1,1088 @@
+Stack Overflow
+Questions
+Jobs
+Documentation BETA
+Tags
+Users
+
+Search...
+ 
+Log In Sign Up
+x Dismiss
+Join the Stack Overflow Community
+Stack Overflow is a community of 6.8 million programmers, just like you, helping each other. 
+Join them; it only takes a minute: 
+Sign up
+Top Questions interesting417 featured hot week month
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Java Development for Azure
+java azure asked 1 min ago A_Sakir 13
+0
+votes
+ 
+2
+answers
+ 
+16
+views
+Can't understand python shallow copy when working with int and str
+python shallow-copy answered 1 min ago Arthur Tacca 566
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+How to get the details of tables in Angular2, when click on cell
+angular2 asked 1 min ago rish 432
+0
+votes
+ 
+1
+answer
+ 
+10
+views
+pandas groupby by the dictionary
+pandas dictionary group-by answered 1 min ago MaxU 43.4k
+1
+vote
+ 
+0
+answers
+ 
+10
+views
+Snackbar not showing because of page refresh?
+javascript php jquery html css modified 1 min ago Anoop Joshi 20.4k
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+can not find jstree in javascript class
+javascript jstree asked 1 min ago user2591714 19
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+SQL delta calculation with varying records
+sql postgresql asked 1 min ago sophie 281
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+Azure App Service API Deployment requires a restart
+azure .net-core vsts-release modified 1 min ago Martin Brandl 19.8k
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+An error occurred while provisioning your stack:functionlog - /aws/lambda/Serverless/function already exists
+amazon-web-services lambda aws-lambda serverless-framework asked 1 min ago Shekhar Kambala N V S 1
+0
+votes
+ 
+1
+answer
+ 
+188
+views
+How I can get a wms-Layer from mapserver like we do with a geoserver?
+geoserver wms mapserver modified 1 min ago user27874 107
+0
+votes
+ 
+1
+answer
+ 
+22
+views
+How do I pass a single object, a collection &/or an ActiveRecord Collection Object to a class initialization method?
+ruby-on-rails ruby activerecord ruby-on-rails-5 modified 1 min ago Sergio Tulentsev 137k
+0
+votes
+ 
+2
+answers
+ 
+14
+views
+paste from clipboard transpose to last non empty cell
+excel transpose answered 2 mins ago user7579539 1
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+How can I use Physi.js with a complex group geometry?
+three.js asked 2 mins ago lison16new 1
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Get selected value from JTable to another JFrame
+java swing asked 2 mins ago Navneet Tyagi 1
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Why can't I connect to the SQL Server instance on my local machine?
+sql sql-server asked 2 mins ago Vinyl Warmth 172
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Magento - PayPal Express Review
+magento paypal magento-1.9 paypal-express asked 2 mins ago Robert Stanley 1,682
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+how to get suggested user_id in a facebook post(image) using graph api
+facebook-graph-api facebook-javascript-sdk asked 2 mins ago adarsh 1
+0
+votes
+ 
+1
+answer
+ 
+23
+views
+Build a neural network with known weights and bias
+r neural-network answered 2 mins ago SACHIN 670
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+how can we capture all the values using regular expression extractor and json path extractor in jmeter?
+jmeter beanshell blazemeter asked 2 mins ago Nikhil 37
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Why I cannot install Goenrich on python (Windows 10)?
+python-2.7 module windows-10 asked 3 mins ago Sarah Casulinni 5
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Getting ¡°geometry¡± from google API result
+java json servlets gson asked 3 mins ago X.enia 6
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+Time measurement of single arithmetic operation with gettimeofday()
+c++ gettimeofday modified 3 mins ago limitless 321
+0
+votes
+ 
+1
+answer
+ 
+15
+views
+SQL to HQL Syntax how ? or Can I use directly SQL but I also want result in JSON?
+mysql hibernate hql hibernate-criteria answered 3 mins ago NB Softy 1
+0
+votes
+ 
+0
+answers
+ 
+6
+views
+WCF - OperationContract with arguments of type List<T> or IEnumerable<T>
+c# asp.net web-services wcf asked 3 mins ago Karan 888
+1
+vote
+ 
+1
+answer
+ 
+17
+views
+Tcl 8.4 - Plotting a bar graph
+tcl modified 3 mins ago Mr. Bordoloi 18
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Liferay portlet version managment?
+configuration liferay portlet asked 3 mins ago Greed 1
+1
+vote
+ 
+0
+answers
+ 
+5
+views
+Randomly sample per group, make a new dataframe, repeat until all entities within a group are sampled
+r subsampling 3 mins ago
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+Not able to transpile jsx to js using babel
+javascript reactjs babel asked 4 mins ago soup boy 484
+1
+vote
+ 
+1
+answer
+ 
+29
+views
+Java 2D Array, find containing elements
+java arrays algorithm math 2d modified 4 mins ago Gewure 252
+2
+votes
+ 
+0
+answers
+ 
+122
+views
++50
+Spring-boot datasource commit trouble
+java jenkins spring-boot datasource modified 4 mins ago bureaquete 1,275
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Woocommerce rest api anonymous user
+wordpress woocommerce-rest-api asked 4 mins ago Jan Strnadel 1
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+retrieving image in Google Sheet cell using Python
+python-2.7 google-spreadsheet google-sheets-api asked 4 mins ago tktang 1
+-1
+votes
+ 
+1
+answer
+ 
+13
+views
+Java XPATH select only the first element of child
+java xpath answered 4 mins ago Koche 21
+0
+votes
+ 
+1
+answer
+ 
+15
+views
+Simple loop in datastage
+loops datastage answered 5 mins ago Dan Griffiths 76
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Pushing codes in bitbucket delete server files
+git laravel bitbucket forge envoyer.io asked 5 mins ago mehran gh 18
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Python matplotlib: How do I prevent axis autoscaling in multiple plots?
+python matplotlib asked 5 mins ago user7677771 1
+0
+votes
+ 
+1
+answer
+ 
+17
+views
+Java Spring - Add and remove Filter at runtime
+java spring spring-boot spring-web answered 5 mins ago Essex Boy 1,415
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+SBT package only a set of classes
+java playframework-2.0 sbt asked 5 mins ago Saif Asif 3,384
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Teradata search for a string in reverse order
+substring reverse substr asked 5 mins ago user2331719 16
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+C# - Assembly.Load - Exception thrown: 'System.BadImageFormatException' in mscorlib.dll
+c# .net resources mscorlib assembly.load asked 5 mins ago ItayNG 1
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+google.visualization.PieChart is not a constructor
+javascript jquery graph google-chartwrapper google-pie-chart asked 5 mins ago Gaurav_0093 310
+-2
+votes
+ 
+0
+answers
+ 
+25
+views
+Why aren't div tables working on Firefox on a website served with WAMP?
+html css html-table wampserver modified 5 mins ago Brian Tompsett - ÌÀÀ³¶÷ 3,521
+0
+votes
+ 
+1
+answer
+ 
+17
+views
+reg exp: ¡°if¡± and single ¡°=¡±
+regex grep modified 6 mins ago user3336433 30
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Java SE GUI MCQs Application
+java desktop-application easygui asked 6 mins ago Hamza Zahid 3
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+multiple photoswipe galleries while using bootstrap grid layout
+twitter-bootstrap gallery photoswipe asked 6 mins ago Wouter Scholtens 1
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+I have implemented a permute vector to a 3x3 matrix to get its elements arranged and then getting back the original matrix
+polynomials matrix-indexing asked 6 mins ago mayfly 1
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+Appium: Not able to launch browser while running protractor test suite
+android protractor appium asked 6 mins ago sjv 139
+1
+vote
+ 
+5
+answers
+ 
+71
+views
+Return true if value matches any value including nested object value
+javascript object lodash modified 6 mins ago ryeballar 16.7k
+0
+votes
+ 
+2
+answers
+ 
+9
+views
+notify_one() in c++ thread waking up more than one thread
+c++ multithreading condition answered 6 mins ago Kane 282
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+setpos and getpos strange behavior in vim
+vim asked 7 mins ago Sabrina 606
+0
+votes
+ 
+0
+answers
+ 
+5
+views
+how to get the response of called Action within an Action in play framework
+java scala playframework playframework-2.2 playframework-2.3 asked 7 mins ago swaheed 868
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Run multiple Maven project in jboss studio as batch
+eclipse maven asked 7 mins ago A K M 6
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+JMeter - Insert RegEx captured value as a variable into next request Path and into JSON BodyData
+regex variables jmeter asked 7 mins ago ristoneeisto 13
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+nohup multiple command in cluster
+linux nohup asked 7 mins ago hope 3
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Cucumber - Server errors raised after the end of steps
+ruby-on-rails seo bots asked 8 mins ago Cyril Duchon-Doris 3,556
+1
+vote
+ 
+0
+answers
+ 
+15
+views
+td is not taking height according to inside iframe & its elements height in Chrome browser?
+javascript html google-chrome iframe html-table modified 8 mins ago Brian Tompsett - ÌÀÀ³¶÷ 3,521
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+How to recieve proper UDP packet in QT?
+c++ qt sockets udp modified 8 mins ago Karthik Poojary 1
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Light clustered Vert.x
+hazelcast vert.x asked 8 mins ago Almazko 13
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Search emails including attachments stored in HDFS
+email search hbase hdfs email-attachments asked 8 mins ago racooon 1
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Getting Excel.Application from Excel process without hWnd
+c# excel process modified 9 mins ago Ilya Bezus 20
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+ipy.pdb not loaded in visual studio
+visual-studio-2015 ironpython asked 9 mins ago devopsEMK 2,499
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Create multiple partitions on kafka topic creation using pykafka
+python apache-kafka pykafka asked 10 mins ago akhilviswam 30
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Training output meaning in OpenCV
+python opencv face-recognition asked 10 mins ago mohamad danesh 10
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Floating point numbers should not be tested for equality (S1244) triggered incorrectly?
+sonarqube asked 10 mins ago H. Kooij 1
+0
+votes
+ 
+0
+answers
+ 
+4
+views
+Run batch script to run web pages in one window on pc start
+windows batch-file browser asked 11 mins ago Marek Bern¨¢d 85
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+How to get rid of the 100 properties per account cap on Google Analytics
+google-analytics google-analytics-api google-analytics-v4 google-analytics-sdk asked 12 mins ago R.de.VRIES 14
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Absolute path with different server
+path asked 12 mins ago user2210516 120
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Oracle 11g using DBMS_SCHEDULER to call the linux shell script
+linux shell oracle11g asked 12 mins ago xiang Gao 17
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Merging all concepts , chapters and tpoicref's in to single into a single html using org.dita4publishers.html2 plugin
+xml xslt dita dita-ot asked 13 mins ago Diana Janifer 60
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Delphi: Read listbox item to string, and place into a path settings
+delphi delphi-7 delphi-2010 asked 13 mins ago SzaBee 1
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Download role in Ansible - best practice?
+ansible asked 13 mins ago femibyte 478
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Add dense layer before LSTM layer in keras or Tensorflow?
+deep-learning keras lstm keras-layer asked 14 mins ago Nilay Thakor 46
+0
+votes
+ 
+0
+answers
+ 
+3
+views
+Filetree is not refreshing after switching branches - cloud9
+ruby-on-rails git cloud9-ide c9.io asked 14 mins ago ToTenMilan 25
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+Achieve interstitialSection of Srolllify
+jquery-scrollify asked 15 mins ago gt06 17
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+factory_girl invalid factories for has many through
+ruby-on-rails-4 factory-girl asked 15 mins ago Eali 14
+0
+votes
+ 
+0
+answers
+ 
+2
+views
+python-colormath Delta E equations with pandas
+python colors asked 15 mins ago gus 3
+1
+vote
+ 
+0
+answers
+ 
+10
+views
+Implementing localStorage in my React application
+html5 reactjs local-storage asked 15 mins ago furball514 7
+7
+votes
+ 
+0
+answers
+ 
+53
+views
+Executing PlaySpec tests with Scalatest from packaged binary
+scalatest modified 19 mins ago Brett 1,793
+1
+vote
+ 
+0
+answers
+ 
+7
+views
+Wordpress Plugin wp default function assign to variable not working using oops concept
+wordpress oop modified 20 mins ago Nil Patel 6
+2
+votes
+ 
+0
+answers
+ 
+14
+views
+Git list all branches ever existed
+git asked 22 mins ago Vuk Djapic 127
+1
+vote
+ 
+0
+answers
+ 
+3
+views
+How to set parameter variable for TestNg suite file from Maven POM
+maven testng maven-surefire-plugin asked 24 mins ago Amit Parmar 6
+1
+vote
+ 
+0
+answers
+ 
+9
+views
+Referencing AST nodes after construction with Visitor pattern
+c++ c++11 pointers shared-ptr abstract-syntax-tree asked 26 mins ago BORJA LORENTE ESCOBAR 6
+2
+votes
+ 
+0
+answers
+ 
+13
+views
+Embedding multiple python 3 interpreters with different built-in modules
+python c++ python-3.x embedding asked 28 mins ago kovacsv 348
+1
+vote
+ 
+0
+answers
+ 
+11
+views
+Outlook Mail API: How to select a Specific Property from a Message?
+outlook outlook-api modified 30 mins ago Caitlin Bales - Microsoft 143
+3
+votes
+ 
+0
+answers
+ 
+35
+views
+Incorrect rows returned from user query
+sql sql-server database join stored-procedures asked 33 mins ago user7348218 16
+1
+vote
+ 
+0
+answers
+ 
+4
+views
+It is possible to test methods that are not called from the project I have published?
+weblogic soapui modified 34 mins ago Laur Ivan 2,795
+1
+vote
+ 
+0
+answers
+ 
+8
+views
+Fancybox buttons are too small on mobile (non-responsive site)
+javascript android fancybox gallery viewport asked 37 mins ago Vadim L 18
+2
+votes
+ 
+0
+answers
+ 
+12
+views
+$emit is not working when trying to emit a custom class Vuejs
+javascript vuejs2 asked 42 mins ago Vikram 1,454
+1
+vote
+ 
+0
+answers
+ 
+9
+views
+How to hide border flickity in Chrome
+javascript html5 slider flickity asked 42 mins ago Rohmat 21
+1
+vote
+ 
+0
+answers
+ 
+6
+views
+Abandon procedure, or clear procedure variable?
+session session-variables asked 47 mins ago user7672055 8
+4
+votes
+ 
+1
+answer
+ 
+24
+views
+Draftjs components with props
+reactjs draftjs answered 47 mins ago Jiang YD 1,832
+1
+vote
+ 
+0
+answers
+ 
+5
+views
+twitter4j cordova plugin using for login
+javascript android cordova plugins asked 47 mins ago Gopi Sankar 34
+4
+votes
+ 
+0
+answers
+ 
+28
+views
++50
+Location of Bluetooth Profile in Bluetooth System
+bluetooth profiles modified 49 mins ago vineeth s thayyil 32
+9
+votes
+ 
+0
+answers
+ 
+19
+views
+PrestaShop -Is there any checkout api available for PrestaShop mobile application?
+android ios prestashop checkout prestashop-1.7 asked 1 hour ago Plobal 46
+9
+votes
+ 
+0
+answers
+ 
+13
+views
+Magento Mobile App - How to add multiple products to cart and redirect to checkout page
+ios magento checkout cart mobile-application asked 1 hour ago Geetanjali M 46
+7
+votes
+ 
+1
+answer
+ 
+25
+views
+WooCommerce Mobile App - Adding multiple products to cart and redirect to checkout page
+android ios mobile woocommerce mobile-application modified 1 hour ago Sumit 66
+
+Looking for more? Browse the complete list of questions, or popular tags. Help us answer unanswered questions.
+
+Ask Question
+Work from anywhere
+Python Developer - Build the smartest way to buy a car (Telecommute - full time)
+Unhaggle Inc.No office location
+REMOTE
+djangopython
+Cloud Solutions Developer
+DitoMountain View, CA
+REMOTE
+Hot Network Questions
+
+tikz - annotation text not aligned
+Exchange gain on credit card refund
+Does Detect Poison and Disease detect poisonous creatures or venomous creatures?
+If free quarks can't exist, how did the universe form?
+Is it true that you can receive emergency care in the UK completely free of charge?
+Solve an equation with (almost) any numbers you like
+Leetcode 125. Valid Palindrome (better performance?)
+How would a command structure and strategy for a galactic war be organized?
+Magento 2 get all product attributes without product id
+How to access externally defined symbols without polluting the current namespace?
+In which comic was it revealed that Alfred was the Joker?
+In Star Trek, why do Federation / Starfleet ships always seem to delay returning fire until it's almost too late?
+How to realistically create a bow that's also two one-handed swords?
+How to talk to others when they're busy?
+Weird large K symbol
+How do you safely delete a piece of code that looks like it's never entered
+Staying in Phase On The Grid
+Travelling to Izmir, Turkey
+Back-To-Front Permutation Index
+Are tower simulators used in civil ATC training?
+Using anymore in the positive
+User credentials for ISO27001
+Etiquette of publishing folklore results
+What are "Honey Bubbles" and how are they made?
+recent questions feed
+about us tour help blog chat data legal privacy policy work here advertising info developer jobs directory mobile contact us feedback
+TECHNOLOGY	LIFE / ARTS	CULTURE / RECREATION	SCIENCE	OTHER
+Stack Overflow
+Server Fault
+Super User
+Web Applications
+Ask Ubuntu
+Webmasters
+Game Development
+TeX - LaTeX
+Software Engineering
+Unix & Linux
+Ask Different (Apple)
+WordPress Development
+Geographic Information Systems
+Electrical Engineering
+Android Enthusiasts
+Information Security
+Database Administrators
+Drupal Answers
+SharePoint
+User Experience
+Mathematica
+Salesforce
+ExpressionEngine? Answers
+Cryptography
+Code Review
+Magento
+Signal Processing
+Raspberry Pi
+Programming Puzzles & Code Golf
+more (7)
+Photography
+Science Fiction & Fantasy
+Graphic Design
+Movies & TV
+Music: Practice & Theory
+Seasoned Advice (cooking)
+Home Improvement
+Personal Finance & Money
+Academia
+more (8)
+English Language & Usage
+Skeptics
+Mi Yodeya (Judaism)
+Travel
+Christianity
+English Language Learners
+Japanese Language
+Arqade (gaming)
+Bicycles
+Role-playing Games
+Anime & Manga
+Motor Vehicle Maintenance & Repair
+more (17)
+MathOverflow
+Mathematics
+Cross Validated (stats)
+Theoretical Computer Science
+Physics
+Chemistry
+Biology
+Computer Science
+Philosophy
+more (3)
+Meta Stack Exchange
+Stack Apps
+Area 51
+Stack Overflow Talent
+site design / logo ? 2017 Stack Exchange Inc; user contributions licensed under cc by-sa 3.0 with attribution required
+rev 2017.3.10.25376
