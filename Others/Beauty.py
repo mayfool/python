@@ -2,7 +2,7 @@ import os
 import shutil
 import sys
 import asyncio
-
+'''批量处理windows后缀名'''
 
 class PictureUtil:
     """Windows聚焦文件夹中图片处理工具类"""

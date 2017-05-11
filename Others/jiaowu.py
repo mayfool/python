@@ -1,16 +1,18 @@
 import requests
 def login(email, password):
+    session=requests.session()
     login_url = 'http://bkjws.sdu.edu.cn/b/ajaxLogin'
     data = {
-        'j_username': '201400301037',
-        'j_password': '951113',
+        'j_username':email,
+        'j_password': password,
         }
-    response = requests.post(login_url, data=data)
+    response = session.post(login_url, data=data)
     login_code = response.json()
-    print(login_code)
+    another=session.get("http://bkjws.sdu.edu.cn/f/grxx/xs/lxfs")
+    print(another.text)
 
 
 
-email = "493360037@qq.com"
-password = "hd951113"
+email = "201400301037"
+password = "951113"
 login(email, password)

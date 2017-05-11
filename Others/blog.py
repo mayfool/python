@@ -4,7 +4,9 @@ import time
 import math
 import pymysql
 
-
+'''
+读取新浪微博的数据并且放到本地数据库中
+'''
 
 headers = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
